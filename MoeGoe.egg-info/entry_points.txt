@@ -1,0 +1,2 @@
+[console_scripts]
+moegoe = MoeGoe.__main__:main
