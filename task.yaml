@@ -1,0 +1,7 @@
+model: ../model/model.pth
+config: ../model/config.json
+text: "こんにちは"
+choice: t
+outpath: tmp.wav
+sid: 0
+escape: false
