@@ -15,10 +15,12 @@
 
 # Mono auto generated files
 mono_crash.*
-build/
-dist/
+
 
 # Build results
+build/
+dist/
+idea/
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
